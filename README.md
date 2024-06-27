@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MichalBoMoge/ErasmusTypeLearning">
-    <img src="https://banner2.cleanpng.com/20180530/ory/kisspng-document-management-system-enterprise-content-mana-5b0e5bf6815ff2.4797001215276677025299.jpg" alt="Logo" width="80" height="80">
+    <img src="https://banner2.cleanpng.com/20180530/ory/kisspng-document-management-system-enterprise-content-mana-5b0e5bf6815ff2.4797001215276677025299.jpg" alt="Logo" height="80">
   </a>
 
 <h3 align="center">I love Valencia Erasmus is GOAT</h3>
@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://avatars.githubusercontent.com/u/96951591?v=4)
+[![Product Name Screen Shot][product-screenshot]]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -144,4 +144,4 @@ Project Link: [https://github.com/MichalBoMoge/ErasmusTypeLearning](https://gith
 [Css.img]: https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png
 [Css.url]: https://www.w3schools.com/css/
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://avatars.githubusercontent.com/u/96951591?v=4
