@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MichalBoMoge/ErasmusTypeLearning">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://banner2.cleanpng.com/20180530/ory/kisspng-document-management-system-enterprise-content-mana-5b0e5bf6815ff2.4797001215276677025299.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">I love Valencia Erasmus is GOAT</h3>
